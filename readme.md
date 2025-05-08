@@ -9,7 +9,7 @@ This discord bot is an easy to use, all rounder for all of your image to emoji n
 To install the bot, do the following:
 ```bash
     $ git clone https://github.com/yeknam-and-co/discord-emoji-bot.git
-    $ cd imagegen
+    $ cd image-to-emoji
     $ python3 -m pip install -r requirements.txt
     $ python3 main.py
 ```
